@@ -9,8 +9,8 @@ export const HeroSection = () => {
             Explore the World, One Country at a Time.
           </h1>
           <p className="paragraph">
-            Discover the history, culture, and beauty of every nation. Sort,
-            search, and filter through countries to find the details you need.
+          Uncover the rich history, vibrant culture, and stunning beauty of every nation.
+Search, sort, and filter with ease — find exactly what you're looking for.
           </p>
           <button className="btn btn-darken btn-inline bg-white-box">
             Start Exploring <FaLongArrowAltRight />
